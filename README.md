@@ -1,6 +1,6 @@
-# React Truffle Box
+# React Truffle
 
-This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
+This repo comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
 
 ## Installation
 
@@ -11,12 +11,11 @@ Run the `unbox` command using 1 of 2 ways.
 ```sh
 # Install Truffle globally and run `truffle unbox`
 $ npm install -g truffle
-$ truffle unbox react
 ```
 
 ```sh
 # Alternatively, run `truffle unbox` via npx
-$ npx truffle unbox react
+$ npx
 ```
 
 Start the react dev server.
