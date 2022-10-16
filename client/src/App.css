@@ -15,8 +15,8 @@
 
 #App .container {
   width: 40%;
-  min-width: 60rem;
-  max-width: 75rem;
+  min-width: 1300px;
+  max-width: 1920px;
   height: 100%;
 }
 
@@ -109,7 +109,7 @@ hr {
   border-radius: 0 1rem 1rem 0;
 }
 
-#App .container .demo .contract-container .btns>* {
+#App .container .demo .contract-container .btns > * {
   width: 12rem;
   display: flex;
   align-items: center;
@@ -122,7 +122,7 @@ hr {
   cursor: pointer;
 }
 
-#App .container .demo .contract-container .btns>*:hover {
+#App .container .demo .contract-container .btns > *:hover {
   background-color: var(--dark-gray);
 }
 
